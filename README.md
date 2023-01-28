@@ -1,7 +1,7 @@
 <h1 align="center">Heyo 👋, I'm Mikael Siidorow</h1>
 <h3 align="center">A CS student enthusiastic about developing cool projects.</h3>
 
-- 🔭 I’m currently working on [@tietokilta/ui](https://github.com/tietokilta/ui) - A React component library for the Computer Science guild at Aalto University and a secret project 🤫
+- 🔭 I’m currently working on [@tietokilta/ui](https://github.com/tietokilta/ui) - A React component library for the Computer Science guild at Aalto University (and a secret personal project 🤫)
 
 - 🌱 I’m currently learning **SvelteKit, Prisma and Auth**
 
