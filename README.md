@@ -1,9 +1,9 @@
 <h1 align="center">Heyo 👋, I'm Mikael Siidorow</h1>
 <h3 align="center">A CS student enthusiastic about developing cool projects.</h3>
 
-- 🔭 I’m currently working on [KipuBot - a friday bottle raffle grapher](https://github.com/MikaelSiidorow/kipubot)
+- 🔭 I’m currently working on [KipuBot - a friday bottle raffle grapher](https://github.com/MikaelSiidorow/kipubot) and a secret project 🤫
 
-- 🌱 I’m currently learning **Python and Docker with some CI/CD**
+- 🌱 I’m currently learning **SvelteKit, Prisma and Auth**
 
 - 👨‍💻 All of my projects are available at [siidorow.com](https://siidorow.com)
 
