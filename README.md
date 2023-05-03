@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [@tietokilta/ui](https://github.com/tietokilta/ui) - A React component library for the Computer Science guild at Aalto University (and a secret personal project 🤫)
 
-- 🌱 I’m currently learning **SvelteKit, Prisma and Auth**
+- 🌱 I’m currently learning **SvelteKit, Edge Runtime and Auth**
 
 - 👨‍💻 All of my projects are available at [siidorow.com](https://siidorow.com)
 
