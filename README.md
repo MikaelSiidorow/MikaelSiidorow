@@ -1,11 +1,11 @@
 <h1 align="center">Heyo 👋, I'm Mikael Siidorow</h1>
 <h3 align="center">A CS student enthusiastic about developing cool projects.</h3>
 
-- 🔭 I’m currently working on [@tietokilta/ui](https://github.com/tietokilta/ui) - A React component library for the Computer Science guild at Aalto University (and a secret personal project 🤫)
+- 🔭 I’m currently working on [@tietokilta/ui](https://github.com/tietokilta/ui) - A React component library for the Computer Science guild at Aalto University, and a million projects that end up abandoned 😅
 
-- 🌱 I’m currently learning **SvelteKit, Edge Runtime and Auth**
+- 🌱 I’m currently learning **Go, Websockets and AWS**
 
-- 👨‍💻 All of my projects are available at [siidorow.com](https://siidorow.com)
+- 👨‍💻 All of my highlighted projects are available at [siidorow.com](https://siidorow.com)
 
 - 📫 How to reach me **[t.me/mikaelsiidorow](https://t.me/mikaelsiidorow)**
 
