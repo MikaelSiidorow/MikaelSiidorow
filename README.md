@@ -1,13 +1,11 @@
 <h1 align="center">Heyo 👋, I'm Mikael Siidorow</h1>
-<h3 align="center">A CS student enthusiastic about developing cool projects.</h3>
+<h3 align="center">MSc student at Aalto University, researching sync engine architectures for my thesis. Fullstack engineer with startup experience. TypeScript, React, Svelte.              
+</h3>
 
-- 🔭 I’m currently working on [@tietokilta/web](https://github.com/tietokilta/web) - The new website for the Computer Science guild at Aalto University, and a million projects that end up abandoned 😅
+- 🔭 Currently writing my Master's thesis on client-server synchronization
+- 👨‍💻 Highlighted projects at [siidorow.com](https://www.siidorow.com)
+- 📫 Reach me at [in/mikaelsiidorow](http://linkedin.com/in/mikaelsiidorow)
 
-- 🌱 I’m currently learning **Godot**
-
-- 👨‍💻 All of my highlighted projects are available at [siidorow.com](https://www.siidorow.com)
-
-- 📫 How to reach me **[t.me/mikaelsiidorow](https://t.me/mikaelsiidorow)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaelsiidorow&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="mikaelsiidorow" /></p>
 
